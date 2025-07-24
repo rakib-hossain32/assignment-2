@@ -303,6 +303,9 @@ body {
     margin-right: 10px;
     margin-left: 10px;
   }
+  .navbar-list{
+    gap: 0;
+  }
   #unique-list,
   #display-none {
     display: none;
